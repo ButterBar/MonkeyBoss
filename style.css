@@ -14,11 +14,11 @@
     display:block !important;
     width:max-content !important;
     margin-bottom:5px;
-    margin-left:auto;
-    margin-right:auto;
+    /* margin-left:auto;
+    margin-right:auto; */
     background-color: white !important;
     border-radius: 10px !important;
-    padding:10 20px;
+    padding:15px 20px;
     color:black !important;
     text-align: center;
     font-size: 1.3rem !important;
