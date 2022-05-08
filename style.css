@@ -5,10 +5,11 @@
 
 
 .nft-art-gen-section{
-    flex-flow:column wrap !important;
+    flex-flow:column wrap-reverse !important;
 }
   
 .nft-art-gen-section button, .nft-art-gen-section select{
+    justify-content: flex-start;
     font-family: 'chelsea market',fantasy !important;
     font-weight: bold !important;
     display:block !important;
