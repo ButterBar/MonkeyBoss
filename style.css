@@ -1,0 +1,40 @@
+#comp-kvs5id46{
+    background-size:cover;
+}
+
+
+.nft-art-gen-section{
+    flex-flow:column wrap !important;
+}
+  
+.nft-art-gen-section button, .nft-art-gen-section select{
+    font-family: 'chelsea market',fantasy !important;
+    font-weight: bold !important;
+    display:block !important;
+    width:max-content !important;
+    margin-bottom:5px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: white !important;
+    border-radius: 10px !important;
+    padding:5 15px;
+    color:black !important;
+    text-align: center;
+    font-size: 1.5 rem !important;
+    height:auto !important;
+    line-height: auto !important;
+    font-weight:400 !important;
+}
+  
+@media (max-width: 991px) {
+    .nft-art-gen-section button, .nft-art-gen-section select{
+      font-size:1.5 rem !important;
+    }
+}
+  
+.nft-art-gen-mint-progress{
+    text-align: center;
+    color: #ffffff !important;
+    font-family: 'chelsea market',fantasy !important;
+    margin:10px;
+}
