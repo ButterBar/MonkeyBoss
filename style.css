@@ -11,7 +11,7 @@
 .nft-art-gen-section button, .nft-art-gen-section select{
     justify-content: flex-start;
     font-family: 'chelsea market',fantasy !important;
-    font-weight: bold !important;
+    font-weight: bolder !important;
     display:block !important;
     width:max-content !important;
     margin-bottom:8px;
@@ -52,7 +52,7 @@
 }
 
 #comp-kwlxwnzq{
-    margin-top: -1rem !important;
+    margin-top: -1.2rem !important;
 }
 
 #comp-kvqdnagu{
