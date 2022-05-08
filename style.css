@@ -21,7 +21,7 @@
     padding:5 15px;
     color:black !important;
     text-align: center;
-    font-size: 1.5 rem !important;
+    font-size: 1.5rem !important;
     height:auto !important;
     line-height: auto !important;
     font-weight:400 !important;
@@ -29,11 +29,12 @@
   
 @media (max-width: 991px) {
     .nft-art-gen-section button, .nft-art-gen-section select{
-      font-size:1.5 rem !important;
+      font-size:1.5rem !important;
     }
 }
   
 .nft-art-gen-mint-progress{
+    font-size:1rem !important;
     text-align: center;
     color: #ffffff !important;
     font-family: 'chelsea market',fantasy !important;
